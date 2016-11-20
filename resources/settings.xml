@@ -1,0 +1,7 @@
+<settings>
+<category label="Appearance">
+<setting id="sort" label="Sort" type="bool" default="true" />
+<setting id="add" label="Show Add Button" type="bool" default="true" />
+<setting id="view.type" label="View Type" type="select" default="default" values="default|files|songs|artists|albums|movies|tvshows|episodes|musicvideos"/>
+</category>
+</settings>
